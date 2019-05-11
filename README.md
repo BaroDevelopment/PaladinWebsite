@@ -1,5 +1,3 @@
-# PaladinWebsite
-
 # Paladin Bot Website
 
 >## Status: ALPHA - do not use it for now
