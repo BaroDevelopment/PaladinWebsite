@@ -1,4 +1,4 @@
-# PaladinBot
+# PaladinWebsite
 
 > Paaladin Bot Website
 
