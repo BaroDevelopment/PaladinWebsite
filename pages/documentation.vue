@@ -1,5 +1,5 @@
 <template>
-  <iframe src="https://www.paladinbot.online/docs" class="docs"></iframe>
+  <iframe src="https://www.paladinbot.online" class="docs"></iframe>
 </template>
 
 <script>
