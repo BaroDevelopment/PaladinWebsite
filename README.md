@@ -1,6 +1,6 @@
-# PaladinWebsite
+# Paladin Bot Website
 
-> Paaladin Bot Website
+>## Status: ALPHA - do not use it for now
 
 ## Build Setup
 
